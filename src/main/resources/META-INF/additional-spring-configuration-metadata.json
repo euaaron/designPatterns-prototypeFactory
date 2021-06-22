@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "gifapi.tenor.apiurl",
+      "type": "java.lang.String",
+      "description": "Tenor API URL Address."
+    },
+    {
+      "name": "gifapi.tenor.apikey",
+      "type": "java.lang.String",
+      "description": "Tenor API Key needed to connect to their API."
+    },
+    {
+      "name": "gifapi.giphy.apiurl",
+      "type": "java.lang.String",
+      "description": "Giphy API URL Address."
+    },
+    {
+      "name": "gifapi.giphy.apikey",
+      "type": "java.lang.String",
+      "description": "Giphy API Key needed to connect to their API."
+    }
+  ] }
